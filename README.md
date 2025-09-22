@@ -29,4 +29,4 @@ JavaScript ES6+ (array methods, destructuring, template literals, etc.)
 
 Local JSON Data (simulated async fetching with fetch and delay)
 
-CSS / Tailwind (responsive design)
+CSS (responsive design)
