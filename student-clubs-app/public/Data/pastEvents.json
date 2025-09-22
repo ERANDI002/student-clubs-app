@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Code for a Cause",
+    "club": "Coding Club",
+    "date": "2025-05-15",
+    "image": "coding-csr.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Inter-University Chess Championship",
+    "club": "Chess Club",
+    "date": "2025-04-20",
+    "image": "chess-championship.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Model UN Training",
+    "club": "Debate Society",
+    "date": "2025-03-10",
+    "image": "model-un.jpg"
+  }
+]

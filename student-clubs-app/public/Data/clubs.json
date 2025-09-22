@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Robotics Club",
+    "description": "The Robotics Club is a hub for innovation and creativity where students collaborate to design, build, and program robots. Members get hands-on experience with mechanical design, electronics, and coding. Workshops, project challenges, and inter-university competitions are held throughout the year to encourage practical learning.",
+    "purpose": "The purpose of the Robotics Club is to nurture curiosity and technical skills in robotics, engineering, and programming. By working on real-world problems and team-based projects, students develop problem-solving abilities, teamwork, and innovation. The club also aims to prepare members for competitions and careers in technology-driven fields.",
+    "contact": "robotics@example.edu",
+    "practiceDays": ["Monday", "Wednesday"],
+    "practiceTime": "4:00 PM - 6:00 PM",
+    "inCharge": "Dr. A. Perera (Faculty of Engineering)",
+    "image": "robotics.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Debate Society",
+    "description": "The Debate Society provides a platform for students to enhance their public speaking, critical thinking, and persuasive communication skills. Weekly sessions include structured debates, mock tournaments, and workshops led by experienced debaters. Members regularly represent the university in regional and national debate competitions.",
+    "purpose": "The society’s purpose is to cultivate confident speakers and analytical thinkers by fostering a culture of dialogue and respectful argumentation. Students learn to research, construct, and present arguments effectively, developing leadership and confidence that benefit both academic and professional growth.",
+    "contact": "debate@example.edu",
+    "practiceDays": ["Tuesday", "Thursday"],
+    "practiceTime": "5:00 PM - 7:00 PM",
+    "inCharge": "Ms. S. Fernando (Senior Lecturer, English Department)",
+    "image": "debate.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Chess Club",
+    "description": "The Chess Club is open to players of all levels, from beginners to advanced competitors. Weekly meetups include friendly matches, strategy lessons, and tournaments. Members gain the chance to sharpen their strategic thinking, improve focus, and participate in inter-club competitions.",
+    "purpose": "The Chess Club’s purpose is to create a supportive and engaging environment for chess enthusiasts. It encourages students to develop logical reasoning, patience, and decision-making skills while fostering a community built on intellectual challenge and friendly competition.",
+    "contact": "chess@example.edu",
+    "practiceDays": ["Friday"],
+    "practiceTime": "3:00 PM - 5:00 PM",
+    "inCharge": "Mr. R. Jayawardena (National Chess Coach)",
+    "image": "chess.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Coding Club",
+    "description": "The Coding Club brings together students passionate about technology, software, and problem-solving. Members explore areas such as web development, app design, algorithms, and data science. Activities include coding workshops, hackathons, peer-to-peer learning, and collaborative projects that encourage practical application of classroom knowledge.",
+    "purpose": "The club’s purpose is to create an inclusive community where students can learn, innovate, and build technology solutions together. It focuses on strengthening coding skills, promoting teamwork, and preparing students for the tech industry through hands-on projects and networking opportunities.",
+    "contact": "coding@example.edu",
+    "practiceDays": ["Saturday"],
+    "practiceTime": "10:00 AM - 1:00 PM",
+    "inCharge": "Mr. K. Silva (Software Engineer, Alumni)",
+    "image": "coding.jpg"
+  }
+]

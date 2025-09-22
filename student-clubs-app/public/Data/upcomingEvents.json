@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Robotics Competition",
+    "club": "Robotics Club",
+    "type": "Competition",
+    "date": "2025-10-20",
+    "time": "9:00 AM",
+    "venue": "Engineering Auditorium"
+  },
+  {
+    "id": "2",
+    "name": "Public Speaking Workshop",
+    "club": "Debate Society",
+    "type": "Workshop",
+    "date": "2025-11-05",
+    "time": "6:00 PM",
+    "venue": "Main Hall, Faculty of Arts"
+  },
+  {
+    "id": "3",
+    "name": "First-Year Social",
+    "club": "All Clubs",
+    "type": "Social Event",
+    "date": "2025-09-25",
+    "time": "5:00 PM",
+    "venue": "Student Center"
+  }
+]

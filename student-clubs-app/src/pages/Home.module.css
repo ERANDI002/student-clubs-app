@@ -1,0 +1,96 @@
+.homeContainer {
+    padding:2rem;
+}
+
+.welcomeSection {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+    
+.welcomeText {
+  font-size: 1.2rem;
+  max-width: 700px;
+  margin: 1rem auto;
+}
+    
+.eventsGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+    
+.upcomingEventsSection,
+.pastEventsSection {
+  padding: 1.5rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.eventList {
+  /* This is the new part for the 3-column layout */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.5rem;
+  list-style: none;
+  padding: 0;
+}
+    
+.eventItem {
+  background-color: #fff;
+  border: 1px solid #d5a2a2;
+  border-left: 5px solid #bf2525;
+  padding: 1rem;
+  border-radius: 5px;
+
+}
+
+
+
+.pastEventList {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.5rem;
+  list-style: none;
+  padding: 0;
+}
+
+.pastEventItem {
+display: block;
+  text-align: center;
+  margin-bottom: 0;
+}
+    
+.pastEventImage {
+  width: 100%; 
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+}
+    
+.pastEventDetails {
+  flex: none;
+}
+
+    
+.noEvents {
+  font-style: italic;
+  color: #fffcfc;
+}
+
+.upcomingEventsSection {
+    background-color: #bf2525;
+    border: 1px solid #333;
+}
+.whiteHeading {
+  color: white;
+}
+@media (max-width: 768px) {
+  .eventsGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .eventList {
+      grid-template-columns: 1fr; 
+  }
+}
