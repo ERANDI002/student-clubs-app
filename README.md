@@ -1,6 +1,8 @@
 # student-clubs-app
 The Student Clubs App is a React-based Single Page Application (SPA) that serves as a directory of university student clubs. It allows students to explore different clubs, learn about their activities, and find opportunities to get involved in campus life.
 
+Demo link -https://drive.google.com/file/d/17QROQUwjODC9amJcmxHgmJm4CazWchtj/view?usp=drive_link
+
 ✨ Key Features
 
 🏠 Home Page – Welcoming introduction to the university’s student communities.
